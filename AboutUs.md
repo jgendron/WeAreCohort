@@ -14,7 +14,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 |*Team 2* |  |  |  |  |
 | ---- | ---- | ---- | ---- | ---- |
-|  Dave Babbitt  |  Justin Hoffman  |  Kenneth MacDonald  |  KirstiRiehle  |  Elias White  |
+|  Dave Babbitt  |  [Justin Hoffman](justin-hoffman)  |  Kenneth MacDonald  |  KirstiRiehle  |  Elias White  |
 |  Matthew Brown  |  Ben Huber  |  Jamie Martin  |  Chelsea Ross  |  Scott Woolley  |
 |  Simon Coplan  |  Michael Kim  |  Alexander Newton  |  Stephanie Severe  |  Michael Young  |
 |  Ylonda Fauntleroy  |  Kristof Ladny  |  Steven Nutt  |  Julia Stevens  |  |
@@ -46,11 +46,11 @@ Tech Tank Data Science Cohort (Class of 2016)
 * _Contact Information:_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [to [top](#members)]
 
 ## Justin Hoffman
-#### _Computer Science Track or Math Track (San Antonio Office)_
+#### _Computer Science Track (San Antonio Office)_
 * _Skills I can offer the team:_ Python, R, SQL, Mechanical Engineering, Robotics, others...
 
 * _Skill I am improving:_ R and learning how to Hadoop
 
 * _During Tech Tank, I want to..._ become very good at Machine Learning technigues (in Python and R), network with other Data Science colleagues in the firm and find exciting projects to work on
 
-* _Favorite Quote:_  Do not go where the path may lead...go instead where there is no path and leave a trail - Emerson
+* _Favorite Quote:_  Do not go where the path may lead...go instead where there is no path and leave a trail - Emerson [to [top](#members)]
