@@ -30,7 +30,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_ {What is your favorite quote?} 
 
-* _Contact Information (optional):_ {please share what you are comforatble with...this is a public repo} [top](#members)
+* _Contact Information (optional):_ {please share what you are comforatble with...this is a public repo} [to [top](#members)]
 
 ## Jay Gendron
 #### _Computer Science Track (Norfolk Office)_
@@ -43,5 +43,17 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Favorite Quote:_ [The Man in the Arena](images/the-man-in-the-arena.jpg) by President Theodore Roosevelt.  
 
-* _Contact Information:_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [top](#members)
+* _Contact Information:_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [to [top](#members)]
+
+## Julia Stevens
+#### _Computer Science Track (NBP)_
+* _Skills I can offer the team:_ Java, Python, general computer science
+
+* _Skill I am improving:_ R, Hadoop ecosystem, Spark, machine learning, building predictive models. 
+
+* _During Tech Tank, I want to..._ continue to build my network within Booz Allen; gain more real world experience with data science and be able to apply those skills to future projects.
+
+* _Favorite Quote:_ "The most dangerous phrase in the language is, 'We've always done it this way.'" - Grace Hopper 
+
+* _Contact Information (optional):_ stevens_julia@bah.com; (410) 570-4875 [to [top](#members)]
 
